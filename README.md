@@ -1,4 +1,4 @@
-Es una API del lado del servidor (Back-End) hecha con TypeScrip | Nest | NoSql  MongoDB  
+Es una API del lado del servidor (Back-End) hecha con TypeScript | Nest | NoSql  MongoDB  
 El propósito de dicha App  es almacenar toda mercadería de XTienda o XSupermercado en el Stock de dicho Negocio!
 ¡Esto facilita a la hora de saber que productos faltan y la necesidad de compras!!
 A su vez el Cliente puede Modificar , Borrar , y hacer Peticiones de XProducto  

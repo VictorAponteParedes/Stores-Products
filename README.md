@@ -1,7 +1,7 @@
 Es una API del lado del servidor (Back-End) hecha con TypeScript | Nest | NoSql  MongoDB  
 El propósito de dicha App  es almacenar toda mercadería de XTienda o XSupermercado en el Stock de dicho Negocio!
 ¡Esto facilita a la hora de saber que productos faltan y la necesidad de compras!!
-A su vez el Cliente puede Modificar , Borrar , y hacer Peticiones de XProducto  
+A su vez el Cliente puede Modificar , Borrar , y hacer Peticiones de XProducto en el sistema 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
